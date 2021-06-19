@@ -10,7 +10,7 @@ const MealDetail = () => {
   }, []);
   return (
     <div>
-      <h1>This is mealdeal</h1>
+      <h1>This is my meal</h1>
       <h3>name: {meal.strMeal}</h3>
     </div>
   );
